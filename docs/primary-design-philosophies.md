@@ -1,7 +1,7 @@
 
 # Entities
 
-## Individuals as the primary Entity
+## You (the individual)
 - Individuals must be able to be the main focus
 - How does individual security work?
   - Lies on device?
@@ -12,14 +12,12 @@ Some solutions I'm thinking atm are inspired by either the Signal Protocol or Sc
 
 ## Offices (owned by the people)
 
- - Offices maybe can be their own federated servers?
- - The servers should be easy for the people to be able to own it.
- - The server should be verifiable that it wasn't tampered with.
- - Individuals can join offices based on some verification system.
-
-Important: office servers should be owned by the people.
-
-Elected official is merely a role of an individual  
+- Offices maybe can be their own federated servers?
+- The servers should be easy for the people to be able to own it.
+- The server should be verifiable that it wasn't tampered with.
+- Individuals can join offices based on some verification system.
+- Important: office servers should be owned by the people.
+- Elected official is merely a role of an individual  
 
 ## Polling
 
@@ -31,13 +29,8 @@ Elected official is merely a role of an individual
 
 # Some Principles To Explore
 
-## Not Everything Has To Be Digital
-
-Whether its verification/ polling, or other things, not everything in this protocol needs to be digital. Trust has to be assigned somewhere, and super complicated digital solutions won't necessarily gain everyone's trust.
-
-## Should "content" be automated?
-
-Should most "content" on the protocol be generated from verified sources like legislation sites?
+- **Not Everything Has To Be Digital**: Whether its verification/ polling, or other things, not everything in this protocol needs to be digital. Trust has to be assigned somewhere, and super complicated digital solutions won't necessarily gain everyone's trust.
+- **Should "content" be automated?**: Should most "content" on the protocol be generated from verified sources like legislation sites?
 
 # Prior Art To Explore
 
